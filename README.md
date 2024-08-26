@@ -10,8 +10,9 @@ the  code in the gap 8 folder requires this gap_sdk[https://github.com/GreenWave
 following the instruction provided in the repo you may install the sdk 
 
 once you have installed it run 
-
-''' source path/to/your/gap_sdk/sourceme.sh ''' 
+```
+source path/to/your/gap_sdk/sourceme.sh
+```
 
 selecting gap8_v3 
 
@@ -21,7 +22,9 @@ following the instruction provided in the repo you may install the sdk
 
 once you have installed it run 
 
-''' source path/to/your/gap_sdk/sourceme.sh ''' 
+```
+source path/to/your/gap_sdk/sourceme.sh
+```
 
 selecting gap9_v2
 
