@@ -4,5 +4,7 @@ The code was inspired by the implementation of the openmv repo[https://github.co
 
 to run Viola Jones you only need to run the following command
 
-''' make clean all run '''
+```
+make clean all run
+```
 
