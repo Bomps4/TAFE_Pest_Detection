@@ -1,0 +1,2 @@
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ar qc libfreertos_gap9.a CMakeFiles/freertos_gap9.dir/src/device/gap9_iet.S.obj CMakeFiles/freertos_gap9.dir/src/device/startup_gap9.S.obj CMakeFiles/freertos_gap9.dir/src/device/gap9_it.c.obj CMakeFiles/freertos_gap9.dir/src/device/system_gap9.c.obj CMakeFiles/freertos_gap9.dir/src/driver/gap_io.c.obj
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ranlib libfreertos_gap9.a

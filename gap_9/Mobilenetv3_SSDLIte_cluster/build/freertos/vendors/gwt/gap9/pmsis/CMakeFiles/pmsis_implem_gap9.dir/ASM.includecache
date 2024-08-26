@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/gpio/gpio_asm.S
+pmsis/implem/drivers/pmsis_it.h
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/gpio/pmsis/implem/drivers/pmsis_it.h
+
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/timer/timer_asm.S
+pmsis/implem/drivers/pmsis_it.h
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/timer/pmsis/implem/drivers/pmsis_it.h
+
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/udma/hyperbus/hyperbus_asm.S
+pmsis/implem/drivers/pmsis_it.h
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/udma/hyperbus/pmsis/implem/drivers/pmsis_it.h
+
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/udma/octospi/octospi_asm.S
+pmsis/implem/drivers/pmsis_it.h
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/drivers/udma/octospi/pmsis/implem/drivers/pmsis_it.h
+
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/include/pmsis/implem/drivers/pmsis_it.h
+
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/util/asm_util.S
+pmsis/implem/drivers/pmsis_it.h
+/home/nano/Desktop/Luca/PhD/gap9_5_2/gap_riscv_toolchain_ubuntu/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/pmsis/util/pmsis/implem/drivers/pmsis_it.h
+

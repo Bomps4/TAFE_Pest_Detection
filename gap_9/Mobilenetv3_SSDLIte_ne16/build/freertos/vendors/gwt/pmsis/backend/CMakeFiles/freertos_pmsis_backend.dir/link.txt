@@ -1,0 +1,2 @@
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ar qc libfreertos_pmsis_backend.a CMakeFiles/freertos_pmsis_backend.dir/pmsis_backend_native_task_api.c.obj
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ranlib libfreertos_pmsis_backend.a

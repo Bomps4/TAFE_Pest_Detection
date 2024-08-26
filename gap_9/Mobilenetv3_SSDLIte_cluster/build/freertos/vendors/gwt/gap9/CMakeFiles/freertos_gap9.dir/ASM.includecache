@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/implem/include/pmsis_it.h
+
+/home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/gap_iet.S
+pmsis_it.h
+/home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/pmsis_it.h
+
+/home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/startup_gap.S
+pmsis_it.h
+/home/bomps/Scrivania/workfile/gap_sdk_private/rtos/pmsis/os/freeRTOS/vendors/gwt/gap9/src/device/pmsis_it.h
+

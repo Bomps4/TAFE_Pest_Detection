@@ -1,0 +1,2 @@
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ar qc libri5cy-gap9.a CMakeFiles/ri5cy-gap9.dir/port_asm.S.obj CMakeFiles/ri5cy-gap9.dir/port.c.obj
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ranlib libri5cy-gap9.a

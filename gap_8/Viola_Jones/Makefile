@@ -1,0 +1,21 @@
+# APPLICATION NAME
+APP = pulp
+
+# SOURCE FILES
+APP_SRCS += image.c pulp.c cluster.c haar.c 
+
+# NUMBER OF USED CLUSTER CORES
+CORES ?= 8
+
+# PERFORMANCE COUNTERS
+APP_CFLAGS += -DPERF
+
+# COMPILER FLAGS
+APP_CFLAGS += -O3 -g -I. -DNUM_CORES=${CORES} 
+APP_LDFLAGS += -g -lm
+APP_LDFLAGS += -lgaplib
+
+# OpenMP
+CONFIG_OPENMP = 1
+
+include $(RULES_DIR)/pmsis_rules.mk

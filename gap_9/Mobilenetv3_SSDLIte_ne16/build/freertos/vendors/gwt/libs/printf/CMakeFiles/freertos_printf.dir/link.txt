@@ -1,0 +1,2 @@
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ar qc libfreertos_printf.a CMakeFiles/freertos_printf.dir/printf.c.obj
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ranlib libfreertos_printf.a

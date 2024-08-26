@@ -1,0 +1,2 @@
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ar qc libpmsis_rtos.a CMakeFiles/pmsis_rtos.dir/malloc/l2_priv_malloc.c.obj CMakeFiles/pmsis_rtos.dir/malloc/l2_malloc.c.obj CMakeFiles/pmsis_rtos.dir/malloc/malloc_internal.c.obj CMakeFiles/pmsis_rtos.dir/malloc/pi_malloc.c.obj CMakeFiles/pmsis_rtos.dir/os/device.c.obj CMakeFiles/pmsis_rtos.dir/os/pmsis_evt.c.obj CMakeFiles/pmsis_rtos.dir/event_kernel/event_kernel.c.obj CMakeFiles/pmsis_rtos.dir/pi_log.c.obj
+/usr/lib/gap_riscv_toolchain/bin/riscv32-unknown-elf-ranlib libpmsis_rtos.a
