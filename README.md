@@ -2,7 +2,7 @@
 
 
 
-This is the repository for the code used in the paper "Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller". All the code in this repo is considered distributed under the BSD licence included in this same repo with the exception of the code in the Viola-Jones repos which is considered under the MIT licence.  
+This is the repository for the code used in the paper "Accelerating Image-based Pest Detection on a Heterogeneous Multi-core Microcontroller". All the code in this repo is considered distributed under the BSD license included in this same repo, with the exception of the code in the Viola_Jones folders, which is considered under the MIT license.  
 
 The code in this repository requires for you to have the gap_sdk installed on your machine. 
 
