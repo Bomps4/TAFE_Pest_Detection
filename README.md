@@ -28,3 +28,5 @@ source path/to/your/gap_sdk/sourceme.sh
 
 selecting gap9_EVK_board
 
+You are now ready to run the code in the directory of your choice.
+
