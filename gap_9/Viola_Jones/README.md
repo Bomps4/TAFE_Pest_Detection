@@ -1,6 +1,6 @@
 # Viola_Jones
 
-The code was inspired by the implementation of the openmv repo[https://github.com/openmv/openmv].
+The code was inspired by the implementation of the OpenMV [repo](https://github.com/openmv/openmv).
 
 to run this code you will first need to compile the code this is done with
 
